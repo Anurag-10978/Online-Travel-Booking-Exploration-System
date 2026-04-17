@@ -29,7 +29,7 @@ project/
 
 Download or clone this repository:
 
-git clone https://github.com/your-username/tour-travel-website.git
+git clone https://github.com/anurag_10978/tour-travel-website.git
 Open the project folder
 Run index.html in your browser
 ⚙️ Functionality Explanation
